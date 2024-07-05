@@ -36,6 +36,7 @@ def simple_chatbot(user_query):
    # Add more conditions for other predefined queries
    else:
        return "Sorry, I can only provide information on predefined queries."
+```
 ## Step 4: Demonstration and Documentation
 ### Test Your Chatbot
 Test the chatbot with predefined queries to ensure accurate responses.
